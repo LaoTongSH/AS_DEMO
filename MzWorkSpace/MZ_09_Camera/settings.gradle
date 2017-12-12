@@ -1,0 +1,1 @@
+include ':app', ':app2', ':mz_09_camera_video', ':mz_09_camera_video2'
