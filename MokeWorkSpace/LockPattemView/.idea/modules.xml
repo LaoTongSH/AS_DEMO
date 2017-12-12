@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LockPattemView.iml" filepath="$PROJECT_DIR$/LockPattemView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lockview/lockview.iml" filepath="$PROJECT_DIR$/lockview/lockview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylockview/mylockview.iml" filepath="$PROJECT_DIR$/mylockview/mylockview.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:text="你已经成功登陆" />
+
+<!--    <TextView
+        android:id="@+id/fragment_password_lock_hint"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="30dp"
+        android:layout_weight="0.1"
+        android:gravity="center_horizontal"
+        android:text="请绘制图案"
+        android:textColor="#50650E"
+        android:textSize="20sp" />-->
+
+</LinearLayout>
